@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataverseBulkUpdater")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80723bd6dc4c559b648473041b6e458b177d4e71")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataverseBulkUpdater")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataverseBulkUpdater")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

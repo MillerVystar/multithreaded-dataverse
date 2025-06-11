@@ -1,0 +1,7 @@
+# Ignore build output and artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates

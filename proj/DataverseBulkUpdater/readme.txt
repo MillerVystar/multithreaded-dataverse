@@ -1,0 +1,2 @@
+
+AIzaSyD8nmmkXUKrHQXc8bwbiQhXOihNOzydYOI gemini api
